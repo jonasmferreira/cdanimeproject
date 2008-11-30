@@ -47,7 +47,7 @@ class leitura{
 	 * 
 	 * @param string $diretorio
 	 * @param string $ext
-	 * @return
+	 * @return array 
 	 */
 	public function diretorios($diretorio="", $ext="") {
 		$ex = array();
