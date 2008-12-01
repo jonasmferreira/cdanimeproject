@@ -1,6 +1,6 @@
 <?
 /**
- * leitura
+ * Leitura
  * 
  * @package cdanimeproject
  * @author jonas
@@ -8,7 +8,7 @@
  * @version $Id$
  * @access public
  */
-class leitura{
+class LeituraDiretorios{
 	protected $diretorios;
 	protected $objeto;
 	protected $lista;
